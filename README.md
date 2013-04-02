@@ -4,17 +4,18 @@ Date: 4/1/13
 ==============================
 
 
-1.) Android SDK
-	`*not yet uploaded`
-	About: Dev kit for Android, including device emulators
+##Android SDK##
 
+	`*not yet uploaded`
+	
+	About: Dev kit for Android, including device emulators
 	DL: http://developer.android.com/sdk/index.html
 	Inc Ver: r18 (zip, 33.9mb)
 	Price: Free
 
 
 2.) Charles Proxy Server
-    `*not yet uploaded`
+        `*not yet uploaded`
 	About: Debugging proxy, from the project site: "Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information)."
 
 	DL: http://www.charlesproxy.com/download/
