@@ -5,7 +5,6 @@
 
 
 ###Android SDK###
-`*not yet uploaded`
 	
 	About: Dev kit for Android, including device emulators
 	DL: http://developer.android.com/sdk/index.html
@@ -14,9 +13,8 @@
 
 
 ###Charles Proxy Server###
-`*not yet uploaded`
 
-	About: Debugging proxy, from the project site: "Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information)."
+	About: Debugging proxy. Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between a machine and the Internet. This includes server requests, browser responses, HTTP headers, and real time cookie data.
 	DL: http://www.charlesproxy.com/download/
 	Inc Ver: 3.6.5 (zip, 8.3mb)
 	Price: 30 day trial, $50 USD license after
@@ -24,7 +22,6 @@
 
 
 ###iResize###
-`*not yet uploaded`
 
 	GUI for batch resizing/compression of common image formats, exif data gathering, etc. From CNet: "iResize can resize, compress and save as JPEG the image files GIF, JPEG, PICT, PNG, TIFF and PSD files"
 
@@ -35,7 +32,6 @@
 
 
 ###John the Ripper###
-`*not yet uploaded`
 
 	About: Unix util for dictionary attacks of passwords
 
@@ -46,7 +42,6 @@
 
 
 ###Reaver###
-`*not yet uploaded`
 
 	About: Unix util for brute force cracking of WPS router registrar pin number, used to air crack WPA/WPA2 Wifi network passes
 
@@ -60,73 +55,56 @@
 
 
 ###Selenium Remote Control###
-`*not yet uploaded`
 
 	About: Used for browser automation, user interaction defect detection, integration testing, etc. From the dox: "A server which automatically launches and kills browsers, and acts as a HTTP proxy for web requests from them."
 
 
 	DL: http://docs.seleniumhq.org/projects/remote-control/
+	Inc File: selenium-2.20.0.tar.gz
 	Inc Ver: 2.20.0 (tarball, 4.2mb)
 	Price: Free
 
 
 
 ###Oracle VM VirtualBox###
-`*not yet uploaded`
     
 	About: Virtual machine platform, requires a crack of your OS of choice to work
 
 
 	DL: https://www.virtualbox.org/wiki/Downloads
-	Inc Ver: 4.1.20 (.dmg, 101.3mb)
+	Inc Ver: 4.1.20 (.zip, 101.3mb)
 	Price: Free
 
 ###HTTPScoop###
-`*not yet uploaded`
 
+    About: GUI util for monitoring http* requests and responses. Similar to Fiddler.
 
-###Open Office###
-`*not yet uploaded`
-
-
-###Firefox###
-`*not yet uploaded`
-
-
-###Gimp###
-`*not yet uploaded`
+    File: HTTPScoop_1.4.3.dmg.zip
 
 
 ###Git###
-    git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
-    
-
-###Google Chrome###
-`*not yet uploaded`
-
-
-###Skype###
-`*not yet uploaded`
+    File: git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
 
 
 ###Sublime Text Editor###
 `*not yet uploaded`
 
 
-###Tor Browser (Vidalia)###
-    TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
+###Tor Browser (Vidalia Bundle)###
+    File: TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
     
 
 ###TrueCrypt###
-    TrueCrypt 7.1a Mac OS X.dmg.zip
+
+    About: On the fly encryption, secure enough to meet the requirements for U.S. highly classified documents. Allows for creation and encryp/decryp of hidden volumes. Create either a standard encrypted volume for files or create nested encrypted volumes. Nested volumes allow for plausible deniability and the nested structure allows for passwords that can be revealed under duress without endangering other encrypted volumes.
+
+    File: TrueCrypt 7.1a Mac OS X.dmg.zip
     
 
 ###uTorrent###
-    uTorrent.dmg.zip
+    File: uTorrent.dmg.zip
     
 
-###VLC Media Player###
-`*not yet uploaded`
 
 
 
