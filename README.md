@@ -7,6 +7,7 @@
 ###Android SDK###
 	
 	About: Dev kit for Android, including device emulators
+	
 	DL: http://developer.android.com/sdk/index.html
 	Inc Ver: r18 (zip, 33.9mb)
 	Price: Free
@@ -14,7 +15,9 @@
 
 ###Charles Proxy Server###
 
-	About: Debugging proxy. Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between a machine and the Internet. This includes server requests, browser responses, HTTP headers, and real time cookie data.
+	About: Debugging proxy. Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all 
+	of the HTTP and SSL / HTTPS traffic between a machine and the Internet. This includes server requests, browser responses, HTTP headers, and real time cookie data.
+	
 	DL: http://www.charlesproxy.com/download/
 	Inc Ver: 3.6.5 (zip, 8.3mb)
 	Price: 30 day trial, $50 USD license after
@@ -23,7 +26,8 @@
 
 ###iResize###
 
-	GUI for batch resizing/compression of common image formats, exif data gathering, etc. From CNet: "iResize can resize, compress and save as JPEG the image files GIF, JPEG, PICT, PNG, TIFF and PSD files"
+	GUI for batch resizing/compression of common image formats, exif data gathering, etc. From CNet: "iResize can resize, 
+	compress and save as JPEG the image files GIF, JPEG, PICT, PNG, TIFF and PSD files"
 
 	DL: http://download.cnet.com/iResize/3000-2192_4-44123.html
 	Inc Ver: ? (zip, 4.1mb)
@@ -45,7 +49,6 @@
 
 	About: Unix util for brute force cracking of WPS router registrar pin number, used to air crack WPA/WPA2 Wifi network passes
 
-
 	DL: https://code.google.com/p/reaver-wps/
 	Included Version: 1.4 (tarball)
 	Theory: http://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf
@@ -56,14 +59,17 @@
 
 ###Selenium Remote Control###
 
-	About: Used for browser automation, user interaction defect detection, integration testing, etc. From the dox: "A server which automatically launches and kills browsers, and acts as a HTTP proxy for web requests from them."
-
+	About: Used for browser automation, user interaction defect detection, integration testing, etc. From the dox: "A server which 
+	automatically launches and kills browsers, and acts as a HTTP proxy for web requests from them."
 
 	DL: http://docs.seleniumhq.org/projects/remote-control/
 	Inc File: selenium-2.20.0.tar.gz
 	Inc Ver: 2.20.0 (tarball, 4.2mb)
 	Price: Free
 
+###Selenium IDE Firefox Extension###
+    
+    File: selenium-ide-1.10.0.xpi
 
 
 ###Oracle VM VirtualBox###
@@ -83,28 +89,43 @@
 
 
 ###Git###
+    
+    About: Distributed version control system written by Linus Torvalds.
+
     File: git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
 
 
-###Sublime Text Editor###
-`*not yet uploaded`
-
-
 ###Tor Browser (Vidalia Bundle)###
+    
+    About: A bundle that includes all necessary components for browsing the Tor network. Tor helps ensure anonymity by 
+    routing internet traffic through a series of nodes in order to hide the requestor, making spying by traffic analysis 
+    methods difficult. Tor is also necessary for accessing the "deep web" of hidden "onion" websites that are invisible to 
+    common web browsers. Addresses for Tor only deep web sites are recognizable by their .onion extension, with the URL format 
+    http://afj20g82gvn251nao20581hgj15hgo0.onion
+
+
     File: TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
     
 
 ###TrueCrypt###
 
-    About: On the fly encryption, secure enough to meet the requirements for U.S. highly classified documents. Allows for creation and encryp/decryp of hidden volumes. Create either a standard encrypted volume for files or create nested encrypted volumes. Nested volumes allow for plausible deniability and the nested structure allows for passwords that can be revealed under duress without endangering other encrypted volumes.
+    About: On the fly encryption, secure enough to meet the requirements for documents classified "top secret" by the U.S. gov't. 
+    Allows for creation and encryp/decryp of hidden mountable volumes. Create standard, partitioned, and nested encrypted volumes. 
+    Nested volumes are of special note as they allow for many layers of passwords that can be revealed under duress without 
+    exposing the existence of any other encrypted volumes.
 
     File: TrueCrypt 7.1a Mac OS X.dmg.zip
     
 
 ###uTorrent###
+
+    About: A lightweight application for downloading torrents. Remember to seed kids :)
+    
     File: uTorrent.dmg.zip
     
 
+###Sublime Text Editor###
+`*not yet uploaded`
 
 
 
