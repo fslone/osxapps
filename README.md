@@ -19,14 +19,15 @@
 	responses, HTTP headers, and real time cookie data.
 	
 	DL: http://www.charlesproxy.com/download/
-	Inc Ver: 3.6.5 (zip, 8.3mb)
+	Inc Ver: Utils/3.6.5 (zip, 8.3mb)
+	
 	Price: 30 day trial, $50 USD license after
 
 ###Fugu###
 
     About: GUI based FTP/SFTP/SSH client
 
-    File: Fugu-1.2.1pre1.zip
+    Inc Ver: Utils/Fugu-1.2.1pre1.zip
 
 ###iResize###
 
@@ -48,15 +49,16 @@
 ###Git###
 
     About: Distributed version control system written by Linus Torvalds.
-
-    File: git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
+    
+    DL: https://code.google.com/p/git-osx-installer/
+    Inc Ver: git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
 
 
 ###HTTPScoop###
 
     About: GUI util for monitoring http* requests and responses. Similar to Fiddler.
 
-    File: HTTPScoop_1.4.3.dmg.zip
+    Inc Ver: Utils/HTTPScoop_1.4.3.dmg.zip
 
 
 ###Oracle VM VirtualBox###
@@ -79,7 +81,7 @@
 
 ###Selenium IDE Firefox Extension###
 
-    File: selenium-ide-1.10.0.xpi
+    Inc Ver: Utils/selenium-ide-1.10.0.xpi
 
 ###Selenium Remote Control###
 
@@ -94,7 +96,7 @@
 
 ###Sublime Text Editor###
     
-    Sublime Text 2.0.1.dmg.zip
+    Inc Ver: Utils/Sublime Text 2.0.1.dmg.zip
 
 ###Tor Browser (Vidalia Bundle)###
     
@@ -104,7 +106,7 @@
     common web browsers. Addresses for Tor only deep web sites are recognizable by their .onion extension, with a URL 
     format similar to http://afj20g82gvn251nao20581hgj15hgo0.onion
 
-    File: TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
+    Inc Ver: Utils/TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
     
 
 ###TrueCrypt###
@@ -114,7 +116,7 @@
     partitioned, and nested encrypted volumes. Nested volumes are of special note as they allow for many layers 
     of passwords that can be revealed under duress without exposing the existence of any other encrypted volumes.
 
-    File: TrueCrypt 7.1a Mac OS X.dmg.zip
+    Inc Ver: Utils/TrueCrypt 7.1a Mac OS X.dmg.zip
     
 
 ###uTorrent###
@@ -127,6 +129,8 @@
 
     About: Unix command line util for fetching files via HTTP/S & FTP protocols.
 
+    Inc Ver: Utils/wget-1.13.tar.gz
+    
     Example: I find this especially useful for profiling a website's directory structure or for creating a 
     copy of the entire site as it appears in a browser to a user. My most used command is "wget -r http://thesite.com" 
     which would recursively download all spiderable pages at http://thesite.com. Note the word "spiderable," as the copy 
