@@ -93,7 +93,8 @@
 	Price: Free
 
 ###Sublime Text Editor###
-`*not yet uploaded`
+    
+    Sublime Text 2.0.1.dmg.zip
 
 ###Tor Browser (Vidalia Bundle)###
     
