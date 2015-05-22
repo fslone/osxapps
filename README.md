@@ -1,142 +1,143 @@
-#OS X Dev Utils#
+#osxapps#
+===========
 
+System installer files for the development environment on my OS X machine.
 
-==============================
-
-
-**Date: 05/13/13**
+**Date: 05/22/15**
 
 ###Android SDK###
+
+Dev kit for Android, including device emulators
 	
-	About: Dev kit for Android, including device emulators
-	
-	DL: http://developer.android.com/sdk/index.html
-	Inc Ver: r18 (zip, 33.9mb)
+	Site: http://developer.android.com/sdk/index.html
 	Price: Free
+	Filename: android-sdk_r18-macosx.zip
 
 ###Charles Proxy Server###
 
-	About: Debugging proxy. Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all 
-	of the HTTP and SSL / HTTPS traffic between a machine and the Internet. This includes server requests, browser 
-	responses, HTTP headers, and real time cookie data.
+Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 	
-	DL: http://www.charlesproxy.com/download/
-	Inc Ver: Utils/3.6.5 (zip, 8.3mb)
-	
+	Site: http://www.charlesproxy.com/download/
 	Price: 30 day trial, $50 USD license after
+	Filename: charles-proxy_3.6.5.zip
 
 ###Fugu###
 
-    About: GUI based FTP/SFTP/SSH client
+Fugu is an SFTP client for Mac OS X developed by the University of Michigan's Research Systems Unix Group (RSUG). It is a graphical shell for OpenSSH tools that provides a simple interface to all of the features that SSH has.
 
-    Inc Ver: Utils/Fugu-1.2.1pre1.zip
+	Site: http://fugu.en.softonic.com/mac
+	Price: Free
+	Filename: Fugu-1.2.1pre1.zip
 
 ###iResize###
 
-	GUI for batch resizing/compression of common image formats, exif data gathering, etc. From CNet: "iResize can resize, 
-	compress and save as JPEG the image files GIF, JPEG, PICT, PNG, TIFF and PSD files"
+GUI for batch resizing/compression of common image formats and exif data gathering.
 
-	DL: http://download.cnet.com/iResize/3000-2192_4-44123.html
-	Inc Ver: ? (zip, 4.1mb)
+	Site: http://download.cnet.com/iResize/3000-2192_4-44123.html
 	Price: Free
+	Filename: iResize.zip
 
 ###John the Ripper###
 
-	About: Unix util for dictionary attacks of passwords
+Unix util for dictionary attacks of passwords
 
-	DL: http://www.openwall.com/john/
-	Inc Ver: 1.7.9 (tarball, free version)
+	Site: http://www.openwall.com/john/
 	Price: Free
+	Filename: john-1.7.9.tar
 
 ###Git###
 
-    About: Distributed version control system written by Linus Torvalds.
+Distributed version control system written by Linus Torvalds.
     
-    DL: https://code.google.com/p/git-osx-installer/
-    Inc Ver: git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
-
+    Site: https://code.google.com/p/git-osx-installer/
+    Price: Free
+    Filename: git-1.8.1.2-intel-universal-snow-leopard.dmg.zip
 
 ###HTTPScoop###
 
-    About: GUI util for monitoring http* requests and responses. Similar to Fiddler.
+GUI util for monitoring http* requests and responses.
 
-    Inc Ver: Utils/HTTPScoop_1.4.3.dmg.zip
+	Site: http://www.tuffcode.com/
+	Price: Free
+    Filename: HTTPScoop_1.4.3.dmg.zip
 
+###nmap###
+
+Utility for network discovery and security auditing.
+
+	Site: https://nmap.org/download.html
+	Price: Free
+    Filename: nmap-6.47.dmg
 
 ###Oracle VM VirtualBox###
 
-	About: Virtual machine platform, requires a crack of your OS of choice to work
+Virtual machine platform.
 
-	DL: https://www.virtualbox.org/wiki/Downloads
-	Inc Ver: 4.1.20 (.zip, 101.3mb)
+	Site: https://www.virtualbox.org/wiki/Downloads
 	Price: Free
+	Filename: VirtualBox-4.1.20.dmg.zip
 	
 ###Reaver###
 
-	About: Util for brute force cracking of WPS router registrar pin number, used to "air crack" WPA/WPA2 wifi passes
+Utility for brute force cracking of WPS router registrar pin numbers for air cracking of WPA/WPA2 wifi passes. See an explanation of the theory behind the method [here](http://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf) and a tutorial [here](http://lifehacker.com/5873407/how-to-crack-a-wi+fi-networks-wpa-password-with-reaver).
 
-	DL: https://code.google.com/p/reaver-wps/
-	Included Version: 1.4 (tarball)
-	Theory: http://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf
-	Tutorial: http://lifehacker.com/5873407/how-to-crack-a-wi+fi-networks-wpa-password-with-reaver
+	Site: https://code.google.com/p/reaver-wps/
 	Price: Free
+	Filename: reaver-1.4.tar
 
 ###Selenium IDE Firefox Extension###
 
-    Inc Ver: Utils/selenium-ide-1.10.0.xpi
+The Selenium IDE is a Firefox plugin that allows for automatied browser manipulation.
+
+    Site: http://www.seleniumhq.org/
+	Price: Free
+	Filename: selenium-ide-1.10.0.xpi
 
 ###Selenium Remote Control###
 
-	About: Used for browser automation, user interaction defect detection, integration testing, etc. 
-	From the dox: "A server which automatically launches and kills browsers, and acts as a HTTP proxy 
-	for web requests from them."
+A server which automatically launches and kills browsers, and acts as a HTTP proxy for web requests from them.
 
-	DL: http://docs.seleniumhq.org/projects/remote-control/
-	Inc File: selenium-2.20.0.tar.gz
-	Inc Ver: 2.20.0 (tarball, 4.2mb)
+	Site: http://docs.seleniumhq.org/projects/remote-control/
 	Price: Free
+	Filename: selenium-2.20.0.tar.gz
 
 ###Sublime Text Editor###
     
-    Inc Ver: Utils/Sublime Text 2.0.1.dmg.zip
+    Site: http://www.sublimetext.com/
+    Price: Free
+    Filename: Sublime Text 2.0.1.dmg.zip
 
 ###Tor Browser (Vidalia Bundle)###
     
-    About: A bundle that includes all necessary components for browsing the Tor network. Tor helps ensure anonymity by 
-    routing internet traffic through a series of nodes in order to hide the requestor, making spying by traffic analysis 
-    methods difficult. Tor is also necessary for accessing the "deep web" of hidden "onion" websites that are invisible to 
-    common web browsers. Addresses for Tor only deep web sites are recognizable by their .onion extension, with a URL 
-    format similar to http://afj20g82gvn251nao20581hgj15hgo0.onion
+A bundle that includes all necessary components for utilizing Tor's method of onion routing.
 
-    Inc Ver: Utils/TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
+	Site: https://www.torproject.org/download/download
+	Price: Free
+    Filename: TorBrowser-2.3.25-4-osx-x86_64-en-US.zip
     
-
 ###TrueCrypt###
 
-    About: On the fly encryption, secure enough to meet the requirements for documents classified "top secret" 
-    intel by the U.S. gov't. Allows for creation and encryp/decryp of hidden mountable volumes. Create standard, 
-    partitioned, and nested encrypted volumes. Nested volumes are of special note as they allow for many layers 
-    of passwords that can be revealed under duress without exposing the existence of any other encrypted volumes.
+On the fly military grade encryption program.
 
-    Inc Ver: Utils/TrueCrypt 7.1a Mac OS X.dmg.zip
+	Price: Free
+    Filename: TrueCrypt 7.1a Mac OS X.dmg.zip
     
-
 ###uTorrent###
 
-    About: A lightweight application for downloading torrents. Remember to seed kids :)
+A lightweight application for downloading torrents.
     
-    File: uTorrent.dmg.zip
+    Site: http://www.utorrent.com/
+    Price: Free
+    Filename: uTorrent.dmg.zip
     
 ###wget###
 
-    About: Unix command line util for fetching files via HTTP/S & FTP protocols.
+Unix command line util for fetching files via HTTP/S & FTP protocols.
 
-    Inc Ver: Utils/wget-1.13.tar.gz
-    
-    Example: I find this especially useful for profiling a website's directory structure or for creating a 
-    copy of the entire site as it appears in a browser to a user. My most used command is "wget -r http://thesite.com" 
-    which would recursively download all spiderable pages at http://thesite.com. Note the word "spiderable," as the copy 
-    downloaded can only reach pages that are linked to and cannot download orphan files and pages that may be present.
+	Site: http://www.gnu.org/software/wget/
+	Price: Free
+    Filename: wget-1.13.tar.gz
+
 
 
 
